@@ -312,9 +312,9 @@ abstract final class MockData {
   ];
 
   static const profileInfo = <(String, String)>[
-    ('Escola', 'ETEC Zona Sul'),
+    ('Escola', 'ETEC'),
     ('Curso', 'Téc. em Desenvolvimento de Sistemas'),
-    ('Período', '2º Módulo · Tarde'),
+    ('Período', 'Tarde'),
     ('RM', '25102'),
   ];
 
