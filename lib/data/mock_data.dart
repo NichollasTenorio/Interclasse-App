@@ -315,7 +315,7 @@ abstract final class MockData {
     ('Escola', 'ETEC Zona Sul'),
     ('Curso', 'Téc. em Desenvolvimento de Sistemas'),
     ('Período', '2º Módulo · Tarde'),
-    ('RA', '2026001234'),
+    ('RM', '25102'),
   ];
 
   static const profileToggles = <(String, bool)>[
