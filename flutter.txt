@@ -1,0 +1,6 @@
+flutter
+
+   flutter create . --project-name interclasse_etec
+   rm test/widget_test.dart
+   flutter pub get
+   flutter run -d chrome
