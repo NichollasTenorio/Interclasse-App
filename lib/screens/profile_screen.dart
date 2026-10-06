@@ -90,7 +90,7 @@ class ProfileScreen extends StatelessWidget {
                     gap: 4,
                     children: [
                       Heading('João Silva', size: 20, color: AppColors.white),
-                      Label('Informática · #10 · Atacante', color: AppColors.white70),
+                      Label('Desenvolvimento de Sistemas · #10 · Atacante', color: AppColors.white70),
                       Container(
                         margin: const EdgeInsets.only(top: 2),
                         padding: const EdgeInsets.symmetric(vertical: 2, horizontal: 8),
