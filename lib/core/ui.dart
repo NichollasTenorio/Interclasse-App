@@ -127,7 +127,7 @@ class HRow extends StatelessWidget {
 }
 
 
-/// Texto de corpo (Roboto).
+/// Texto de corpo (Roboto)
 class Label extends StatelessWidget {
   const Label(
     this.text, {
