@@ -103,7 +103,7 @@ class HomeScreen extends StatelessWidget {
                     children: [
                       const Expanded(
                         child: TeamColumn(
-                          abbr: 'INFO', name: 'Informática',
+                          abbr: 'DS', name: 'Desenvolvimento de Sistemas',
                           avatarSize: 44, nameSize: 12, nameWeight: FontWeight.w600, gap: 6,
                         ),
                       ),
@@ -117,7 +117,7 @@ class HomeScreen extends StatelessWidget {
                       ),
                       const Expanded(
                         child: TeamColumn(
-                          abbr: 'MEC', name: 'Mecatrônica',
+                          abbr: 'NUT', name: 'Nutrição',
                           avatarSize: 44, nameSize: 12, nameWeight: FontWeight.w600, gap: 6,
                         ),
                       ),
