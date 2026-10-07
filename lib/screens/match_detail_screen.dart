@@ -86,7 +86,7 @@ class _MatchDetailScreenState extends State<MatchDetailScreen> {
               children: [
                 const Expanded(
                   child: TeamColumn(
-                    abbr: 'INFO', name: 'Informática',
+                    abbr: 'DS', name: 'Desenvolvimento de Sistemas',
                     avatarSize: 48, nameSize: 13, nameColor: AppColors.white,
                     nameWeight: FontWeight.w600, gap: 6,
                   ),
